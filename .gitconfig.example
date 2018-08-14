@@ -1,0 +1,11 @@
+[user]
+	name = [GITNAME]
+	email = [GITEMAIL]
+[core]
+	excludesfile = ~/.gitignore_global
+
+[alias]
+    # List all branches
+    branches = branch -a
+    # List all remotes
+    remotes = remote -v

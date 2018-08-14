@@ -1,0 +1,10 @@
+# Log files
+*.log
+
+# OS and Folder view configuration files
+.DS_Store
+Desktop.ini
+._*
+Thumbs.db
+.Spotlight-V100
+.Trashes
